@@ -5,7 +5,7 @@
   width: 100%;
   height: 35px;
   background-color: #284b63;
-  color: #d9d9d9;
+  color: #d9dcd6;
   font-weight: bolder;
   font-size: larger;
   text-transform: uppercase;
@@ -20,6 +20,7 @@
   cursor: pointer;
 }
 .navbarContainer li:hover {
+  color: #b49594;
   color: black;
 }
 
@@ -31,9 +32,8 @@
 }
 @media (max-width: 320px) {
   .navbarContainer {
-    font-size:small;
+    font-size: small;
     text-transform: capitalize;
     height: 45px;
-
   }
 }
