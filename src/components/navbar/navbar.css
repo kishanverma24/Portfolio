@@ -5,6 +5,7 @@
   width: 100%;
   height: 35px;
   background-color: #284b63;
+  background-color: #403d39;
   color: #d9dcd6;
   font-weight: bolder;
   font-size: larger;
@@ -22,6 +23,10 @@
 .navbarContainer li:hover {
   color: #b49594;
   color: black;
+}
+.navblink {
+  text-decoration: none;
+  color: white;
 }
 
 @media (max-width: 550px) {

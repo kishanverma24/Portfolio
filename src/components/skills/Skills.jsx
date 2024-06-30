@@ -17,7 +17,7 @@ function Skills() {
           }}
         >
           <h4 className="sk_smdivh4" style={{ color: "black" }}>
-            Nameess Skill
+            Express Js
           </h4>
         </div>
       </div>{" "}
@@ -35,13 +35,13 @@ function Skills() {
           }}
         >
           <h4 className="sk_smdivh4" style={{ color: "black" }}>
-            Nameess Skill
+            MongoDb
           </h4>
         </div>
       </div>{" "}
       <div>
         <div
-          style={{ backgroundImage: `url("myImage.jpg")` }}
+          style={{ backgroundImage: `url("skills/reactjs.png")` }}
           className="sk_sm_div"
         ></div>
         <div
@@ -53,7 +53,7 @@ function Skills() {
           }}
         >
           <h4 className="sk_smdivh4" style={{ color: "black" }}>
-            Nameess Skill
+            React Js
           </h4>
         </div>
       </div>{" "}

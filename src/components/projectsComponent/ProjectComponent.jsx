@@ -1,6 +1,6 @@
 import React from "react";
-import "./project.css";
-function Project() {
+import "./projectComponent.css";
+function ProjectComponent() {
   return (
     <div className="main_div">
       <div>
@@ -79,4 +79,4 @@ function Project() {
   );
 }
 
-export default Project;
+export default ProjectComponent;
