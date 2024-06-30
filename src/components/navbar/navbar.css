@@ -1,0 +1,39 @@
+.navbarContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 35px;
+  background-color: #284b63;
+  color: #d9d9d9;
+  font-weight: bolder;
+  font-size: larger;
+  text-transform: uppercase;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 1;
+}
+.navbarContainer li {
+  display: inline;
+  list-style-type: none;
+  cursor: pointer;
+}
+.navbarContainer li:hover {
+  color: black;
+}
+
+@media (max-width: 550px) {
+  .navbarContainer {
+    font-size: medium;
+    text-transform: capitalize;
+  }
+}
+@media (max-width: 320px) {
+  .navbarContainer {
+    font-size:small;
+    text-transform: capitalize;
+    height: 45px;
+
+  }
+}
