@@ -1,12 +1,12 @@
 import React from "react";
-import "./project.css";
-function Project() {
+import "./certificates.css";
+function Certificates() {
   return (
-    <div className="main_div">
+    <div className="certi_main_div">
       <div>
         <div
           style={{ backgroundImage: `url("myImage.jpg")` }}
-          className="sm_div"
+          className="certi_sm_div"
         ></div>
         <div
           style={{
@@ -16,7 +16,7 @@ function Project() {
             width: "100%",
           }}
         >
-          <h4 className="smdivh4" style={{ color: "white" }}>
+          <h4 className="certi_smdivh4" style={{ color: "white" }}>
             Name: Lorem ipsum dolor applejh
           </h4>
         </div>
@@ -24,7 +24,7 @@ function Project() {
       <div>
         <div
           style={{ backgroundImage: `url("myImage.jpg")` }}
-          className="sm_div"
+          className="certi_sm_div"
         ></div>
         <div
           style={{
@@ -34,7 +34,7 @@ function Project() {
             width: "100%",
           }}
         >
-          <h4 className="smdivh4" style={{ color: "white" }}>
+          <h4 className="certi_smdivh4" style={{ color: "white" }}>
             Name: Lorem ipsum dolor applejh
           </h4>
         </div>
@@ -42,7 +42,7 @@ function Project() {
       <div>
         <div
           style={{ backgroundImage: `url("myImage.jpg")` }}
-          className="sm_div"
+          className="certi_sm_div"
         ></div>
         <div
           style={{
@@ -52,7 +52,7 @@ function Project() {
             width: "100%",
           }}
         >
-          <h4 className="smdivh4" style={{ color: "white" }}>
+          <h4 className="certi_smdivh4" style={{ color: "white" }}>
             Name: Lorem ipsum dolor applejh
           </h4>
         </div>
@@ -60,7 +60,7 @@ function Project() {
       <div>
         <div
           style={{ backgroundImage: `url("myImage.jpg")` }}
-          className="sm_div"
+          className="certi_sm_div"
         ></div>
         <div
           style={{
@@ -70,7 +70,7 @@ function Project() {
             width: "100%",
           }}
         >
-          <h4 className="smdivh4" style={{ color: "white" }}>
+          <h4 className="certi_smdivh4" style={{ color: "white" }}>
             Name: Lorem ipsum dolor applejh
           </h4>
         </div>
@@ -79,4 +79,4 @@ function Project() {
   );
 }
 
-export default Project;
+export default Certificates;
