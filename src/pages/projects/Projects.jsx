@@ -6,11 +6,10 @@ const Projects = () => {
   return (
     <>
       <Navbar />
-      <div style={{ marginTop: "45px" }}></div>
-      <ProjectComponent />
-      <div style={{ position: "fixed", bottom: "0px" }}>
-        <Footer />
+      <div style={{ marginTop: "45px", height: "100vh" }}>
+        <ProjectComponent />
       </div>
+      <Footer />
     </>
   );
 };

@@ -1,13 +1,16 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import "./projectComponent.css";
 function ProjectComponent() {
   return (
     <div className="main_div">
       <div>
-        <div
-          style={{ backgroundImage: `url("myImage.jpg")` }}
-          className="sm_div"
-        ></div>
+        <Link to={"/project/1234"}>
+          <div
+            style={{ backgroundImage: `url("myImage.jpg")` }}
+            className="sm_div"
+          ></div>
+        </Link>
         <div
           style={{
             display: "flex",

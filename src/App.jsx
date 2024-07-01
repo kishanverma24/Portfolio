@@ -4,6 +4,7 @@ import Projects from "./pages/projects/Projects";
 import "./App.css";
 import Academics from "./pages/academics/Academics";
 import Contact from "./pages/contact/Contact";
+import Project from "./pages/project/Project";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/projects" element={<Projects />} />
+          <Route path="/project/:projectid" element={<Project />} />
           <Route path="/academics" element={<Academics />} />
           <Route path="/contact" element={<Contact />} />
         </Routes>

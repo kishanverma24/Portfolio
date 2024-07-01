@@ -7,8 +7,9 @@ const Academics = () => {
   return (
     <>
       <Navbar />
-      <div style={{ marginTop: "45px" }}></div>
-      <Certificates />
+      <div style={{ marginTop: "45px", height: "100vh" }}>
+        <Certificates />
+      </div>{" "}
       <Footer />
     </>
   );
