@@ -10,11 +10,11 @@ const ProductDetails = () => {
       <div className="singleProjectContainer">
         <h1 className="projectTitle">Footwear Store</h1>
         <div className="projectImgContainer">
-          <img src="/public/myImage.jpg" alt="" />
-          <img src="/public/myImage.jpg" alt="" />
-          <img src="/public/myImage.jpg" alt="" />
-          <img src="/public/myImage.jpg" alt="" />
-          <img src="/public/myImage.jpg" alt="" />
+          <img src="/public/projects/project1/Screenshot (136).png" alt="" />
+          <img src="/public/projects/project1/Screenshot (139).png" alt="" />
+          <img src="/public/projects/project1/Screenshot (143).png" alt="" />
+          <img src="/public/projects/project1/Screenshot (142).png" alt="" />
+          <img src="/public/projects/project1/Screenshot (144).png" alt="" />
         </div>
         <div className="projectContentContainer">
           <h3>1. Overview:</h3>
@@ -120,16 +120,27 @@ const ProductDetails = () => {
           <p>
             <span style={{ fontWeight: "bolder", fontSize: "14px" }}>
               {" "}
-              Source code:{" "}
-            </span>{" "}
-            "https/www.google.com"
+              Live Link:{" "}
+            </span>
+            {"  "}
+            <a
+              style={{ textDecoration: "none", fontWeight: "bold" }}
+              href="https://footwearstore.netlify.app/"
+            >
+              Live Website Link
+            </a>
           </p>
           <p>
             <span style={{ fontWeight: "bolder", fontSize: "14px" }}>
               {" "}
-              Live link:{" "}
+              Source Code:{" "}
             </span>{" "}
-            "https/www.google.com"
+            <a
+              style={{ textDecoration: "none", fontWeight: "bold" }}
+              href="https://github.com/kishanverma24/footwear_store"
+            >
+              Source Code
+            </a>
           </p>
         </div>
       </div>{" "}

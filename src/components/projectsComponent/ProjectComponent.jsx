@@ -5,9 +5,11 @@ function ProjectComponent() {
   return (
     <div className="main_div">
       <div>
-        <Link to={"/project/1234"}>
+        <Link to={"/project/1"}>
           <div
-            style={{ backgroundImage: `url("myImage.jpg")` }}
+            style={{
+              backgroundImage: `url("/public/projects/project1/coverpageProject1.png")`,
+            }}
             className="sm_div"
           ></div>
         </Link>
@@ -20,61 +22,7 @@ function ProjectComponent() {
           }}
         >
           <h4 className="smdivh4" style={{ color: "white" }}>
-            Name: Lorem ipsum dolor applejh
-          </h4>
-        </div>
-      </div>{" "}
-      <div>
-        <div
-          style={{ backgroundImage: `url("myImage.jpg")` }}
-          className="sm_div"
-        ></div>
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-around",
-            padding: "5px",
-            width: "100%",
-          }}
-        >
-          <h4 className="smdivh4" style={{ color: "white" }}>
-            Name: Lorem ipsum dolor applejh
-          </h4>
-        </div>
-      </div>{" "}
-      <div>
-        <div
-          style={{ backgroundImage: `url("myImage.jpg")` }}
-          className="sm_div"
-        ></div>
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-around",
-            padding: "5px",
-            width: "100%",
-          }}
-        >
-          <h4 className="smdivh4" style={{ color: "white" }}>
-            Name: Lorem ipsum dolor applejh
-          </h4>
-        </div>
-      </div>{" "}
-      <div>
-        <div
-          style={{ backgroundImage: `url("myImage.jpg")` }}
-          className="sm_div"
-        ></div>
-        <div
-          style={{
-            display: "flex",
-            justifyContent: "space-around",
-            padding: "5px",
-            width: "100%",
-          }}
-        >
-          <h4 className="smdivh4" style={{ color: "white" }}>
-            Name: Lorem ipsum dolor applejh
+            Project Name : Footwear Store
           </h4>
         </div>
       </div>{" "}
