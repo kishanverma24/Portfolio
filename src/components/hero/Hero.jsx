@@ -17,6 +17,7 @@ const Hero = () => {
           Engineering and a recent certification in Fullstack Web Development
           from Udemy, I specialize in building dynamic web applications and
           RESTful APIs.
+          <a href=""></a>
         </p>
       </div>
     </div>

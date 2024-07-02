@@ -59,7 +59,7 @@ function Skills() {
       </div>{" "}
       <div>
         <div
-          style={{ backgroundImage: `url("skills/css3.png")` }}
+          style={{ backgroundImage: `url("skills/css33.webp")` }}
           className="sk_sm_div"
         ></div>
         <div
@@ -77,7 +77,7 @@ function Skills() {
       </div>{" "}
       <div>
         <div
-          style={{ backgroundImage: `url("skills/html2.png")` }}
+          style={{ backgroundImage: `url("skills/html2.webp")` }}
           className="sk_sm_div"
         ></div>
         <div
@@ -167,7 +167,7 @@ function Skills() {
       </div>{" "}
       <div>
         <div
-          style={{ backgroundImage: `url("skills/mysql2.webp")` }}
+          style={{ backgroundImage: `url("skills/mysql2.png")` }}
           className="sk_sm_div"
         ></div>
         <div
@@ -203,7 +203,7 @@ function Skills() {
       </div>{" "}
       <div>
         <div
-          style={{ backgroundImage: `url("skills/redux.png")` }}
+          style={{ backgroundImage: `url("skills/redux2.webp")` }}
           className="sk_sm_div"
         ></div>
         <div

@@ -22,9 +22,7 @@
   width: 200px;
   cursor: pointer;
 }
-.projectContentContainer h3{
-text-decoration: underline;
-}
+
 @media (max-width: 1250px) {
   .projectImgContainer {
     height: 20vh;

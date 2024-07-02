@@ -1,0 +1,21 @@
+.projectsContainer {
+  margin-top: 45px;
+  height: 100vh;
+}
+@media (max-width: 550px) {
+  .projectsContainer {
+    margin-top: 45px;
+  }
+}
+@media (max-width: 350px) {
+  .projectsContainer {
+    margin-top: 55px;
+    height: 100vh;
+  }
+}
+@media (max-width: 270px) {
+  .projectsContainer {
+    margin-top: 55px;
+    height: 100vh;
+  }
+}

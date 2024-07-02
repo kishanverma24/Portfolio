@@ -22,7 +22,7 @@ function ProjectComponent() {
           }}
         >
           <h4 className="smdivh4" style={{ color: "white" }}>
-            Project Name : Footwear Store
+            Footwear Store
           </h4>
         </div>
       </div>{" "}
