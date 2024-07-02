@@ -1,7 +1,7 @@
 import React, { useContext, useEffect, useState } from "react";
-import Navbar from "../../components/navbar/Navbar.jsx";
-import Footer from "../../components/footer/Footer.jsx";
-import "./project.css";
+import Navbar from "../../../components/navbar/Navbar.jsx";
+import Footer from "../../../components/footer/Footer.jsx";
+import "./project1.css";
 
 const ProductDetails = () => {
   return (
@@ -10,11 +10,11 @@ const ProductDetails = () => {
       <div className="singleProjectContainer">
         <h1 className="projectTitle">Footwear Store</h1>
         <div className="projectImgContainer">
-          <img src="/public/projects/project1/Screenshot (136).png" alt="" />
-          <img src="/public/projects/project1/Screenshot (139).png" alt="" />
-          <img src="/public/projects/project1/Screenshot (143).png" alt="" />
-          <img src="/public/projects/project1/Screenshot (142).png" alt="" />
-          <img src="/public/projects/project1/Screenshot (144).png" alt="" />
+          <img src="/projects/project1/Screenshot (136).png" alt="" />
+          <img src="/projects/project1/Screenshot (139).png" alt="" />
+          <img src="/projects/project1/Screenshot (143).png" alt="" />
+          <img src="/projects/project1/Screenshot (142).png" alt="" />
+          <img src="/projects/project1/Screenshot (144).png" alt="" />
         </div>
         <div className="projectContentContainer">
           <h3>1. Overview:</h3>
