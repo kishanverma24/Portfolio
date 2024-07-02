@@ -14,7 +14,9 @@ const Contact = () => {
           <h2>
             <img src="/contact/linkedin.jpg" alt="linkedin logo" /> Linked In:
             "www.linkedin.com/in/kishan-verma-00478a310 "{" "}
-            <a href="www.linkedin.com/in/kishan-verma-00478a310">Connect</a>{" "}
+            <a href="https://www.linkedin.com/in/kishan-verma-00478a310">
+              Connect
+            </a>
           </h2>
           <h2>
             <img src="/contact/github.png" alt="github logo" /> Github Account:
