@@ -8,7 +8,7 @@ function ProjectComponent() {
         <Link to={"/projects/project1"}>
           <div
             style={{
-              backgroundImage: `url("/projects/project1/coverpageProject1.png")`,
+              backgroundImage: `url("/projects/project1/coverpageproject1.jpg")`,
             }}
             className="sm_div"
           ></div>
@@ -30,7 +30,7 @@ function ProjectComponent() {
         <Link to={"/projects/project2"}>
           <div
             style={{
-              backgroundImage: `url("/projects/project2/project2 cover.png")`,
+              backgroundImage: `url("/projects/project2/project2 cover.jpg")`,
             }}
             className="sm_div"
           ></div>

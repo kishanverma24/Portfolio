@@ -10,10 +10,10 @@ const ProductDetails = () => {
       <div className="singleProjectContainer">
         <h1 className="projectTitle">Amazon's Landing Page</h1>
         <div className="projectImgContainer">
-          <img src="/projects/project2/project2a.png" alt="" />
-          <img src="/projects/project2/project2 cover.png" alt="" />
-          <img src="/projects/project2/project2b.png" alt="" />
-          <img src="/projects/project2/project2c.png" alt="" />
+          <img src="/projects/project2/project2a.jpg" alt="" />
+          <img src="/projects/project2/project2 cover.jpg" alt="" />
+          <img src="/projects/project2/project2b.jpg" alt="" />
+          <img src="/projects/project2/project2c.jpg" alt="" />
         </div>
         <div className="projectContentContainer">
           <h3>1. Overview:</h3>

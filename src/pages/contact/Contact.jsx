@@ -12,25 +12,25 @@ const Contact = () => {
           <h1>Contact Me</h1>
 
           <h2>
-            <img src="/public/contact/linkedin.jpg" alt="linkedin logo" />{" "}
+            <img src="/contact/linkedin.jpg" alt="linkedin logo" />{" "}
             Linked In: "www.linkedin.com/in/kishan-verma-00478a310"{" "}
             <a href="www.linkedin.com/in/kishan-verma-00478a310">Connect</a>{" "}
           </h2>
           <h2>
-            <img src="/public/contact/github.png" alt="github logo" /> Github
+            <img src="/contact/github.png" alt="github logo" /> Github
             Account: "https://github.com/kishanverma24"{" "}
             <a href="https://github.com/kishanverma24">View</a>{" "}
           </h2>
           <h2>
             <img
               style={{ marginRight: "-2px" }}
-              src="/public/contact/gmail2.webp"
+              src="/contact/gmail2.webp"
               alt="gmail logo"
             />{" "}
             Email Id: "kishanverma9151@gmail.com"{" "}
           </h2>
           <h2>
-            <img src="/public/contact/contact.jpg" alt="contact logo" /> Contact
+            <img src="/contact/contact.jpg" alt="contact logo" /> Contact
             & WhatsApp no: 9151634126{" "}
           </h2>
         </div>

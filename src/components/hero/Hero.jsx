@@ -5,7 +5,6 @@ const Hero = () => {
     <div className="heroContainer">
       <div className="mainImagediv">
         <div className="submainImage">
-          {/* <img style={{width:"300px", height:"300px"}} src="mySelf.jpg" alt="" /> */}
         </div>
       </div>
       <div className="heroInfo">

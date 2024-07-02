@@ -10,11 +10,11 @@ const ProductDetails = () => {
       <div className="singleProjectContainer">
         <h1 className="projectTitle">Footwear Store</h1>
         <div className="projectImgContainer">
-          <img src="/projects/project1/Screenshot (136).png" alt="" />
-          <img src="/projects/project1/Screenshot (139).png" alt="" />
-          <img src="/projects/project1/Screenshot (143).png" alt="" />
-          <img src="/projects/project1/Screenshot (142).png" alt="" />
-          <img src="/projects/project1/Screenshot (144).png" alt="" />
+          <img src="/projects/project1/Screenshot (136).jpg" alt="" />
+          <img src="/projects/project1/Screenshot (139).jpg" alt="" />
+          <img src="/projects/project1/Screenshot (143).jpg" alt="" />
+          <img src="/projects/project1/Screenshot (142).jpg" alt="" />
+          <img src="/projects/project1/Screenshot (144).jpg" alt="" />
         </div>
         <div className="projectContentContainer">
           <h3>1. Overview:</h3>
